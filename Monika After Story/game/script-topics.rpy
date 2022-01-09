@@ -3828,8 +3828,8 @@ label monika_love:
                 m 1hubfb "I love you more than I could ever express~"
 
         elif milestone_count == 35:
-            m 1ekbsa "You never tire of saying it, do you?"
-            m 1hubfa "Well, I never tire of hearing it!"
+            m 1ekbsa "You never tired of saying it, do you?"
+            m 1hubfa "Well, I never tired of hearing it!"
             m 1hubfb "Or saying it back...I love you, [player]!"
 
         elif milestone_count == 40:
